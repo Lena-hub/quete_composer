@@ -1,0 +1,17 @@
+{
+    "name": "lenap/quete_composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\wcs\\": "src/wcs"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lena LE BILLAN",
+            "email": "84079692+Lena-hub@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
+
